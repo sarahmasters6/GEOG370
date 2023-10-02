@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "historical_change_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Type": "New construction" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.019738402466658, 42.364615862737537 ], [ -71.018496606402479, 42.364802980750028 ], [ -71.016914790921859, 42.361327725900246 ], [ -71.017587202832004, 42.360060060957409 ], [ -71.019035613133781, 42.360761613454493 ], [ -71.019738402466658, 42.364615862737537 ] ] ] ] } }
+]
+}

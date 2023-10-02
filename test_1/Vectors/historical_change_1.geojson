@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "historical_change_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Type": "land change" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.025181210012931, 42.360532896657361 ], [ -71.016932213484637, 42.35726091360921 ], [ -71.007611928641893, 42.348920659305129 ], [ -71.007538602662038, 42.346617148129496 ], [ -71.026963536585555, 42.357640271303438 ], [ -71.025181210012931, 42.360532896657361 ] ] ] ] } }
+]
+}
