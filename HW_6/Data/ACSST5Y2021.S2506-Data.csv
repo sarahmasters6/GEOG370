@@ -1,17 +1,17 @@
-GEO_ID,NAME,S2506_C01_001E
-23001,"Androscoggin County, Maine",20277
-23003,"Aroostook County, Maine",10759
-23005,"Cumberland County, Maine",59061
-23007,"Franklin County, Maine",5037
-23009,"Hancock County, Maine",10761
-23011,"Kennebec County, Maine",23592
-23013,"Knox County, Maine",8007
-23015,"Lincoln County, Maine",7260
-23017,"Oxford County, Maine",9368
-23019,"Penobscot County, Maine",24783
-23021,"Piscataquis County, Maine",2434
-23023,"Sagadahoc County, Maine",7797
-23025,"Somerset County, Maine",8642
-23027,"Waldo County, Maine",7638
-23029,"Washington County, Maine",4756
-23031,"York County, Maine",43424
+GEO_ID,NAME,Owner-occupied housing units with a mortgage in 2021,Owner-occupied housing units with a mortgage in 2010,Owner-occupied housing units without a mortgage in 2021,Population,Population ratio,2021:2010 ratio,Without:with ratio (2021)
+23001,"Androscoggin County, Maine",20277,21098,10028,113023,0.179405962,0.961086359,0.494550476
+23003,"Aroostook County, Maine",10759,12011,10420,67255,0.159973236,0.895762218,0.968491495
+23005,"Cumberland County, Maine",59061,58334,29834,307451,0.192098904,1.012462715,0.505138755
+23007,"Franklin County, Maine",5037,5456,4201,30474,0.165288443,0.923203812,0.834028191
+23009,"Hancock County, Maine",10761,10439,8042,56701,0.189785013,1.030845866,0.747328315
+23011,"Kennebec County, Maine",23592,24157,14235,125540,0.187924168,0.976611334,0.603382503
+23013,"Knox County, Maine",8007,8119,5880,41164,0.194514624,0.986205198,0.734357437
+23015,"Lincoln County, Maine",7260,7747,5239,36215,0.200469419,0.937136956,0.721625344
+23017,"Oxford County, Maine",9368,11156,8729,59495,0.15745861,0.839727501,0.931789069
+23019,"Penobscot County, Maine",24783,28411,19117,153704,0.161238484,0.872302981,0.77137554
+23021,"Piscataquis County, Maine",2434,3613,3053,17417,0.139748522,0.673678384,1.254313887
+23023,"Sagadahoc County, Maine",7797,7610,4387,37393,0.208514963,1.02457293,0.562652302
+23025,"Somerset County, Maine",8642,10205,8079,51098,0.169125993,0.846839784,0.934853043
+23027,"Waldo County, Maine",7638,7435,6129,40241,0.189806416,1.027303295,0.802435192
+23029,"Washington County, Maine",4756,5586,5563,31437,0.1512867,0.85141425,1.169680404
+23031,"York County, Maine",43424,42373,22492,216732,0.200358046,1.024803531,0.517962417
